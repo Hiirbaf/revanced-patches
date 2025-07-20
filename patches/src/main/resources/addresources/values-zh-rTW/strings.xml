@@ -137,7 +137,7 @@ Second \"item\" text"</string>
   <string name="revanced_debug_logs_disabled">偵錯記錄已停用</string>
   <string name="revanced_debug_logs_none_found">找不到記錄</string>
   <string name="revanced_debug_logs_copied_to_clipboard">日誌已複製</string>
-  <string name="revanced_debug_logs_failed_to_export">匯出記錄失敗：$s</string>
+  <string name="revanced_debug_logs_failed_to_export">匯出記錄失敗：%s</string>
   <string name="revanced_debug_logs_clear_buffer_title">清除偵錯記錄</string>
   <string name="revanced_debug_logs_clear_buffer_summary">清除所有儲存的 ReVanced 偵錯記錄</string>
   <string name="revanced_debug_logs_clear_toast">記錄已清除</string>

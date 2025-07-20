@@ -133,7 +133,7 @@ Sie werden nicht über unerwartete Ereignisse informiert."</string>
   <string name="revanced_debug_logs_disabled">Debug-Protokollierung ist deaktiviert</string>
   <string name="revanced_debug_logs_none_found">Keine Protokolle gefunden</string>
   <string name="revanced_debug_logs_copied_to_clipboard">Protokolle kopiert</string>
-  <string name="revanced_debug_logs_failed_to_export">Fehler beim Exportieren von Protokollen: $s</string>
+  <string name="revanced_debug_logs_failed_to_export">Fehler beim Exportieren der Protokolle: %s</string>
   <string name="revanced_debug_logs_clear_buffer_title">Debug-Protokolle löschen</string>
   <string name="revanced_debug_logs_clear_buffer_summary">Löscht alle gespeicherten ReVanced-Debug-Protokolle</string>
   <string name="revanced_debug_logs_clear_toast">Protokolle gelöscht</string>

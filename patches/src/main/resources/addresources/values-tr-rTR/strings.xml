@@ -137,7 +137,7 @@ Beklenmedik olaylar hakkında bilgilendirilmeyeceksiniz."</string>
   <string name="revanced_debug_logs_disabled">Hata ayıklama kaydı devre dışı</string>
   <string name="revanced_debug_logs_none_found">Kayıt bulunamadı</string>
   <string name="revanced_debug_logs_copied_to_clipboard">Kayıtlar kopyalandı</string>
-  <string name="revanced_debug_logs_failed_to_export">Kayıtlar dışa aktarılamadı: $s</string>
+  <string name="revanced_debug_logs_failed_to_export">Günlükler dışa aktarılamadı: %s</string>
   <string name="revanced_debug_logs_clear_buffer_title">Hata ayıklama kayıtlarını temizle</string>
   <string name="revanced_debug_logs_clear_buffer_summary">Kaydedilmiş tüm ReVanced hata ayıklama kayıtlarını temizler</string>
   <string name="revanced_debug_logs_clear_toast">Kayıtlar temizlendi</string>
